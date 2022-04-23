@@ -1,1 +1,1 @@
-# projet_angular_pokedex
+# projet_angular_pokedex_api
